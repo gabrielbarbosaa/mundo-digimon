@@ -1,0 +1,1 @@
+export const LIST_DIGIMON = 'LIST_DIGIMON';
